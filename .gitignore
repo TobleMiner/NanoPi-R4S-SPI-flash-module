@@ -1,0 +1,7 @@
+fp-info-cache
+*.xml
+*.log
+lib/3rdparty/*
+NanoPi-R4S-spi-flash-module-all-pos.csv
+NanoPi-R4S-spi-flash-module.xml
+NanoPi-R4S-spi-flash-module

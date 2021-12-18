@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_ST_STM32G0)(type Legacy)(uri ${KIPRJMOD}/lib/MCU_ST_STM32G0.lib)(options "")(descr ""))
+  (lib (name Connector_TagConnect)(type Legacy)(uri ${KIPRJMOD}/lib/Connector_TagConnect.lib)(options "")(descr ""))
+)

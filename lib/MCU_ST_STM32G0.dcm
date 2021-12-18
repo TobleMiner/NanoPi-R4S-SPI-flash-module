@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G030Fx
+D 64MHz Cortex-M0 Microcontroller
+K Cortex-M0 STM32G0
+F https://datasheet.lcsc.com/szlcsc/2005192134_STMicroelectronics-STM32G030C8T6_C529329.pdf
+$ENDCMP
+#
+$CMP STM32G031GxU
+F https://www.st.com/resource/en/datasheet/stm32g031g6.pdf
+$ENDCMP
+#
+#End Doc Library
