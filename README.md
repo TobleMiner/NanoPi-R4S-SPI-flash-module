@@ -12,7 +12,7 @@ for router operations. This NOR flash adapter module could for example be
 paired with OpenWRT to provide a highly reliable router platform.
 
 In addition to the SPI flash this board also features an STM32G031G6U6
-microcontroller. It is connected to the I2C bus of the NanoPi R4S.  
+microcontroller. It is connected to an I2C bus on the NanoPi R4S.  
 The MCU has control over the reset and write protect lines of the SPI NOR
 flash chip. Thus it can be used to disable the flash chip if booting from
 alternate sources is desired. The write-protect line can be used to
