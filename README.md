@@ -18,7 +18,7 @@ flash chip. Thus it can be used to disable the flash chip if booting from
 alternate sources is desired. The write-protect line can be used to
 implement custom tamper-proof storage designs.
 
-To notify users of operations performed by the MCU a small dynmaic
+To notify users of operations performed by the MCU a small dynamic
 speaker is provided.
 
 ![PCB front](assets/NanoPi-R4S-spi-flash-module.png)
