@@ -25,6 +25,8 @@ speaker is provided.
 
 # Ordering
 
+**WARNING: Do not order rev1.0 at JLC. The partnumber for the MCU is incorrect!**
+
 The fabrication files inside `fab` are JLCPCB-ready. I'd suggest ordering
 with a 1mm board thickness. This will ensure the easiest fit in small
 cases.
